@@ -107,7 +107,8 @@ def train_model(model, train_loader, num_epochs=3):
 <img width="643" height="458" alt="image" src="https://github.com/user-attachments/assets/fb1a4b18-02b5-492b-99ae-175d43c43afc" />
 
 ### New Sample Data Prediction
-![Uploading image.png…]()
 
+ <img width="603" height="656" alt="image" src="https://github.com/user-attachments/assets/ab3bfcf3-cb16-4a07-93fd-972adb8634ab" />
+ 
 ## RESULT
 The CNN model was successfully trained and tested, achieving accurate image classification for new input images.
